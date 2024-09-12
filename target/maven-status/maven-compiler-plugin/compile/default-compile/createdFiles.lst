@@ -1,0 +1,7 @@
+br/ufjf/dcc/dcc093/gitmining/cli/CLIExecution.class
+br/ufjf/dcc/dcc093/gitmining/model/File.class
+br/ufjf/dcc/dcc093/gitmining/GitMining.class
+br/ufjf/dcc/dcc093/gitmining/cli/CLIExecute.class
+br/ufjf/dcc/dcc093/gitmining/model/Commit.class
+br/ufjf/dcc/dcc093/gitmining/git/cli/GitCLI.class
+br/ufjf/dcc/dcc093/gitmining/cli/ReadStream.class
